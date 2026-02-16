@@ -1,5 +1,5 @@
 # --------------- | Simple Task Management Web Application | ----------------
-#
+# By-Aaditya Kumar Singh
 # URL
 ### Live Site: https://task-management-dmf.netlify.app/
 ### SERVER:  https://task-management-app-kappa.vercel.app/
@@ -22,3 +22,7 @@
 - React Icon
 - cors
 - dotenv
+# Tech
+- HTML
+- CSS
+- JS
