@@ -1,5 +1,4 @@
-# --------------- | Task Management App | ----------------
-### ----------- MERN stack Web Application -----------
+# --------------- | Simple Task Management Web Application | ----------------
 #
 # URL
 ### Live Site: https://task-management-dmf.netlify.app/
